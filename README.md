@@ -20,8 +20,8 @@ Backend
 
 
 Database & ORM  
-[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
- SQLAlchemy
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)![Static Badge](https://img.shields.io/badge/SQLAlchemy-red)
+
 
 🌐 Let's Connect  
 LinkedIn GitHub  
